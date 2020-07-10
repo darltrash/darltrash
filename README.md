@@ -1,4 +1,6 @@
 # "darltrash", huh?
-**Hello!** 
+### Hello!
 My name is Nelson Lopez and I make stuff i never actually finish!
-All my games suck, the end
+
+### What do you mean?
+h
