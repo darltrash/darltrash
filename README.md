@@ -25,8 +25,8 @@ lodev_: A game about a developer (NOT PUBLIC YET)
 ## Are you proud of your creations?
 uuuh, kinda
 
-(This song)[https://soundcloud.com/narvise/asongmadeforadementedbossthatwasageniusbutnowisdementedelectricbogaloo] that i made for a boss 
-and this (other song)[https://soundcloud.com/narvise/anothersongwithaverylargenameandnospacesalsonolowercapslol-boomgaloo] about a little city on the middle of nowhere
+[This song](https://soundcloud.com/narvise/asongmadeforadementedbossthatwasageniusbutnowisdementedelectricbogaloo) that i made for a boss 
+and this [other song](https://soundcloud.com/narvise/anothersongwithaverylargenameandnospacesalsonolowercapslol-boomgaloo) about a little city on the middle of nowhere
 
 Also the engine i made for "Super Generic BXMBS Game" that i havent released yet
 
