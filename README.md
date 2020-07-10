@@ -16,7 +16,7 @@ I also had an art account on [Instagram](https://instagram.com) but I ended remo
 ### What are your current projects?
 MoonLight: A comic about a wolf monster that tries to hide as a human (NOT PUBLIC YET)
 
-(MoonRPG)[https://github.com/moonsteal/moonrpg]: An action-RPG game about being a monster fish and killing robots with water 
+[MoonRPG](https://github.com/moonsteal/moonrpg): An action-RPG game about being a monster fish and killing robots with water 
 
 Super Generic BXMBS Game!: A game about a raccoon that blows things up (NOT PUBLIC YET)
 
@@ -28,4 +28,4 @@ no
 ### Hey nerdo! I want to contact you!
 why? that's like, very scary~.
 
-you can follow me on (mas.to)[https://mas.to/web/accounts/150512] tho and maybe you can DM me.
+you can follow me on [mas.to](https://mas.to/web/accounts/150512) tho and maybe you can DM me.
