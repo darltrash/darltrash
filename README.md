@@ -1,2 +1,4 @@
 # hello, i'm darltrash
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=darltrash)](https://github.com/anuraghazra/github-readme-stats)
+hi! my name is darltrash and i am professional adhd-er with a perpetual existential crisis, welcome to my page!
+
+
