@@ -1,4 +1,4 @@
-## local darltrash = new Person;
+## local darltrash = new Person.nerd;
 hi! my name is Neil and i am professional adhd-er with a perpetual existential crisis, welcome to my page!
 
 ## print(darltrash.abilities)
@@ -24,5 +24,5 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 - windows 10
 - and oop (used excessively)
 
-## darltrash.enableAdhd = (darltrash.coffeeLevel < 9999)
+## darltrash.enableADHD = (darltrash.coffeeLevel < 9999)
 as you may see, i have plenty abandoned repositories and ideas that i will maybe never ever be able to finish, so dont expect anything coming from me or you will get decepted
