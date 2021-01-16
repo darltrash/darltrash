@@ -14,7 +14,7 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 - [Lua](http://www.lua.org/), [Go](https://golang.org/) and [Zig](https://ziglang.org/) as my main languages (i am a masochist)
 - [Love](https://love2d.org/) and [Raylib](https://www.raylib.com/) as my main frameworks
 - [Godot](https://godotengine.org/) and PrismEngine (custom engine)
-- Asking why do wales have feet or why joe dart is playing the joe dart
+- joe dart playing the joe dart
 
 
 ## print(darltrash.dislike)
