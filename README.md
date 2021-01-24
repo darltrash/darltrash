@@ -17,7 +17,7 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 - joe dart playing the joe dart
 
 
-## print(darltrash.dislike)
+## print(darltrash.dislikes)
 - windows 10
 - excessive oop
 - windows 10
