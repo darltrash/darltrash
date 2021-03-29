@@ -20,8 +20,9 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 ## print(darltrash.dislikes)
 - windows 10
 - excessive oop
-- windows 10
-- windows 10
+- javascript
+- python
+- electron
 - and oop (used excessively)
 
 ## darltrash.enableADHD = (darltrash.coffeeLevel < 9999)
