@@ -7,7 +7,7 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 - Graphics, UX, Games and Audio design
 - Vulfpeck references 
 - Writing 
-- Obviously coding.
+- Obviously coding (...i guess).
 
 
 ## print(darltrash.likes)
