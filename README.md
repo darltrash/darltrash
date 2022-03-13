@@ -1,6 +1,7 @@
 ## local darltrash = new Person.nerd;
 hi! my name is Neil and i am professional adhd-er with a perpetual existential crisis, welcome to my page!
 
+
 ## print(darltrash.abilities)
 - Music 
 - Graphics, UX, Games and Audio design
@@ -8,22 +9,29 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 - Writing 
 - Obviously coding.
 
+
 ## print(darltrash.likes)
-- i like using [Linux](https://www.macmillandictionary.com/dictionary/british/need-no-introduction) as my main OS (currently using [Void Linux](https://voidlinux.org/) + [Musl](https://www.musl-libc.org/)) 
-- [Micro](https://micro-editor.github.io/) and [io.elementary.code](https://github.com/elementary/code) as my main "IDEs"
-- [Lua](http://www.lua.org/), [Go](https://golang.org/) and [Zig](https://ziglang.org/) as my main languages (i am a masochist)
-- [Love](https://love2d.org/) and [Raylib](https://www.raylib.com/) as my main frameworks
-- [Godot](https://godotengine.org/) and PrismEngine (custom engine)
+- i like using [Linux](https://www.macmillandictionary.com/dictionary/british/need-no-introduction) as my main OS (currently using [elementaryOS](https://elementary.io/)) 
+- Whatever code editor necessary as my main "IDE"
+- [Lua](http://www.lua.org/), C and [Zig](https://ziglang.org/) as my main languages (yes, i enjoy pain)
+- [Love](https://love2d.org/) and [Tic80](https://tic80.com/) as my favourite game-making tools :)
+- Simple convergent solutions for problems
 - joe dart playing the joe dart
 
 
 ## print(darltrash.dislikes)
 - windows 10
+- windows 11
 - excessive oop
 - javascript
+- whatever tf are php and ruby meant to be
 - python
 - electron
+- gerhard can you stop stalking me, thank you
 - and oop (used excessively)
 
-## darltrash.enableADHD = (darltrash.coffeeLevel < 9999)
+
+## assert(darltrash.ADHD, "No memory nor attention left!")
 as you may see, i have plenty abandoned repositories and ideas that i will maybe never ever be able to finish, so dont expect anything coming from me or you will get decepted
+
+> Note: Recently acquired some ritalin and i have been through a process of learning about myself and treating my ADHD, and apparently it's working! Still, dont count on me lol
