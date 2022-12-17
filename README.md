@@ -35,3 +35,5 @@ hi! my name is Neil and i am professional adhd-er with a perpetual existential c
 as you may see, i have plenty abandoned repositories and ideas that i will maybe never ever be able to finish, so dont expect anything coming from me or you will get decepted
 
 > Note: Recently acquired some ritalin and i have been through a process of learning about myself and treating my ADHD, and apparently it's working! Still, dont count on me lol
+
+<a rel="me" href="https://peoplemaking.games/@darl">Mastodon</a>
